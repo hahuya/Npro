@@ -23,7 +23,7 @@
     "@vue/cli-plugin-babel": "~4.2.0",
     "@vue/cli-plugin-router": "~4.2.0",
     "@vue/cli-plugin-vuex": "~4.2.0",
-    "@vue/cli-service": "~4.2.0",
+    "@vue/cli-service": "~5.0.8",
     "postcss-pxtorem": "^5.1.1",
     "swiper": "^5.3.6",
     "vue-template-compiler": "^2.6.11"
